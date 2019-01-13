@@ -1,0 +1,36 @@
+GUI_Menu				KEYWORD1
+GUI_MenuItem			KEYWORD1
+GUI_Value_Bar			KEYWORD1
+GUI_Label 				KEYWORD1
+GUI_Button				KEYWORD1	
+GUI_Value_Box			KEYWORD1
+
+display			KEYWORD2
+unDraw			KEYWORD2
+initBar			KEYWORD2
+drawBar			KEYWORD2
+enable 			KEYWORD2
+disable 		KEYWORD2
+getValue 		KEYWORD2
+setValue 		KEYWORD2
+updateValue 	KEYWORD2
+getY 			KEYWORD2
+getX 			KEYWORD2
+getW 			KEYWORD2
+getMin 			KEYWORD2
+getMax 			KEYWORD2
+contains 		KEYWORD2
+isEnabled 		KEYWORD2
+drawLabel 		KEYWORD2
+unDrawLabel 	KEYWORD2
+hide			KEYWORD2
+getParent 		KEYWORD2
+displayValue	KEYWORD2
+plusORminus		KEYWORD2
+toggle			KEYWORD2
+isInverted		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
